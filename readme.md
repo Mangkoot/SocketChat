@@ -4,7 +4,7 @@
 
 
 ##### What and why?
-I wanted to make a chat app, and found [this link]https://www.youtube.com/watch?v=tHbCkikFfDE on the web. What I did was exactly as instructed in the video, and for now I've only made minor changes to the code to make it work.
+I wanted to make a chat app, and found [this link](https://www.youtube.com/watch?v=tHbCkikFfDE) on the web. What I did was exactly as instructed in the video, and for now I've only made minor changes to the code to make it work.
 More changes will come later.
 
 ##### How?
@@ -12,7 +12,7 @@ More changes will come later.
 2. cd into this app 
 3. In your terminal, make sure you have node installed
 4. Type **node server** in your terminal
-5. Open your favourite browser, and go to [http://localhost:3000/]http://localhost:3000/
+5. Open your favourite browser, and go to [http://localhost:3000/](http://localhost:3000/)
 
 You can change port in the **package.json** file if you want to use another port.
 
